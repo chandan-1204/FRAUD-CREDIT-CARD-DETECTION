@@ -54,6 +54,7 @@ fraud-detection-ml/
 │
 ├── requirements.txt
 └── README.md
+
 --- 
 
 ## ⚙️ Steps to Run the Project
@@ -78,13 +79,10 @@ streamlit run app/app.py
 ⚠️ Accuracy is not used as the primary metric due to severe class imbalance.
 
 ### 🌐 Web Application Features
-Real-time fraud prediction
-
-Fraud probability score
-
-Interactive risk visualization
-
-Responsive UI with smooth animations
+- Real-time fraud prediction
+- Fraud probability score
+- Interactive risk visualization
+- Responsive UI with smooth animations
 
 ## ✅ Results
 The model successfully identifies fraudulent transactions with improved recall and precision after handling data imbalance using SMOTE.
@@ -100,3 +98,4 @@ The model successfully identifies fraudulent transactions with improved recall a
 
 📄 License
 - This project is developed for educational and internship purposes only
+
